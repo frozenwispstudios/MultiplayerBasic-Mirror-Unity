@@ -1,6 +1,6 @@
-# MultiplayerBasic-Photon-Unity
+# MultiplayerBasic-Mirror-Unity
 This is just a simple test Prototype to connect between projects and have updated variables.
-Photon is a multiplayer API which allows online and lan gameplay.
+Mirror is a multiplayer API which allows online and lan gameplay.
 
 Portfolio: https://frozenwispstudios.github.io/Portfolio/  
 Twitter: https://twitter.com/_frozenwisp_  
